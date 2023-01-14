@@ -1,0 +1,1 @@
+.\bin\pulseaudio.exe -D -F .\etc\pulse\default.pa
